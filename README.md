@@ -144,8 +144,8 @@ Isso torna o uso rápido, intuitivo e profissional.
 ## 🌟 Diferenciais
 
 ✔ Código modularizado  
-✔ Menu interativo
 ✔ Exercícios organizados por temas  
+✔ Menu interativo
 ✔ Estrutura seguindo boas práticas  
 ✔ Perfeito para estudos, reforço de fundamentos
 
